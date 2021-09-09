@@ -1,0 +1,13 @@
+.name-span,.phone-span{
+    font-size: 1rem;
+}
+
+.delete-btn{
+    color: black;
+    background-color: red;
+}
+
+.add-btn{
+    color: white;
+    background-color: green;
+}
